@@ -1,0 +1,19 @@
+{
+  "name": "react-native-set-lockscreen",
+  "version": "1.0.0",
+  "description": "React Native package to set lockscreen wallpaper on Android",
+  "main": "index.js",
+  "react-native": {
+    "android": "android"
+  },
+  "scripts": {
+    "build": "echo 'Building...'",
+    "prepare": "echo 'Preparing package...'"
+  },
+  "keywords": ["react-native", "lockscreen", "wallpaper", "android"],
+  "dependencies": {
+    "react-native": "*"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
